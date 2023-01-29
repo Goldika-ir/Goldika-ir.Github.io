@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7164],{7164:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/Melal.f7a04180.svg",height:48,width:48}}}]);

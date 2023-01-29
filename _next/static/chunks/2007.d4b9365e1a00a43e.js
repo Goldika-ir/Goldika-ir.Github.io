@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2007],{2007:function(e,t,h){h.r(t),t.default={src:"/_next/static/media/Shahr.5e7e9bbd.svg",height:48,width:48}}}]);

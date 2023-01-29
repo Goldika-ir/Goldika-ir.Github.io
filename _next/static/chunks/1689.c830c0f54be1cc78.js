@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1689],{1689:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/Melli.2ecb7351.svg",height:48,width:48}}}]);

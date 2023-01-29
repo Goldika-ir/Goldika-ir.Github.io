@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7275],{7275:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Maskan.9ebdf9a5.svg",height:48,width:48}}}]);

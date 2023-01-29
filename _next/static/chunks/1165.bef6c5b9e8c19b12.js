@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1165],{1165:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/Tosee.3ff3a062.svg",height:48,width:48}}}]);

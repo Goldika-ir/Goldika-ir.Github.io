@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8273],{8273:function(e,a,t){t.r(a),a.default={src:"/_next/static/media/Tosee_Saderat.a3ea9ea9.svg",height:48,width:48}}}]);

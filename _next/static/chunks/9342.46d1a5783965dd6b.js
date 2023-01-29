@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9342],{9342:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/Ghavamin.c5bdd944.svg",height:48,width:48}}}]);

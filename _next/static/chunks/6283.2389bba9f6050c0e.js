@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6283],{6283:function(a,e,t){t.r(e),e.default={src:"/_next/static/media/Karafarin.595eaa3c.svg",height:48,width:48}}}]);

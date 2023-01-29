@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9809],{9809:function(e,a,t){t.r(a),a.default={src:"/_next/static/media/Iran_Venezuela.ada489f4.svg",height:48,width:48}}}]);
